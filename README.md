@@ -1,3 +1,3 @@
 # Milestone7
 
-#reactjs basics
+ReactJs Basics
